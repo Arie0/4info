@@ -1,6 +1,6 @@
 .btn{
     background-color: rgb(132, 33, 218);
-    color: #19c8fd;
+    color: #19e6fd;
     border-radius: 30px;
     display: inline-block;
     padding: 10px 30px;
@@ -15,9 +15,9 @@
 }
 
 .btn.orange{
-    background-color: #d3a60a;
+    background-color: #410850;
 }
 
 .btn.orange:hover{
-    background-color: black;
+    background-color: rgb(11, 224, 213);
 }
