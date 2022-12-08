@@ -6,7 +6,7 @@
 
 /*EQUIPE*/
 #equipe{
-    background-color: #f3f0e6;
+    background-color: #849bf7;
 }
 
 #equipe .img-box-round img{
@@ -31,8 +31,8 @@
 }
 
 .membro .descricao{
-    background-color: rgba(0, 0, 0, 0.7);
-    border: 5px solid rgba(0, 0, 0, 0.3);
+    background-color: rgba(78, 236, 247, 0.7);
+    border: 5px solid rgba(18, 13, 157, 0.3);
     color: white;
     display: none;
     position: absolute;
